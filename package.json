@@ -1,7 +1,7 @@
 {
-  "name": "ntn-boilerplate",
+  "name": "coredogtraining",
   "version": "2.1.3",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
+  "description": "Core Dog Training Website",
   "author": "Sven Parker <hello+dev@svenparker.com> (https://svenparker.com)",
   "scripts": {
     "dev": "nuxt",
